@@ -1,0 +1,19 @@
+total 13
+drwxrwxr-x+ 50 root  admin  1600 Dec  1 11:59 Applications
+drwxr-xr-x+ 61 root  wheel  1952 Nov 29 22:21 Library
+drwxr-xr-x   2 root  wheel    64 Aug 17 14:54 Network
+drwxr-xr-x@  5 root  wheel   160 Sep 20 21:05 System
+drwxr-xr-x   6 root  admin   192 Nov 28 19:37 Users
+drwxr-xr-x+  4 root  wheel   128 Dec  7 21:10 Volumes
+drwxr-xr-x@ 37 root  wheel  1184 Nov 30 02:17 bin
+drwxrwxr-t   2 root  admin    64 Aug 17 14:53 cores
+dr-xr-xr-x   3 root  wheel  4357 Nov 30 02:20 dev
+lrwxr-xr-x@  1 root  wheel    11 Sep 20 23:32 etc -> private/etc
+dr-xr-xr-x   2 root  wheel     1 Dec  2 15:02 home
+-rw-r--r--   1 root  wheel   313 Aug 17 17:55 installer.failurerequests
+dr-xr-xr-x   2 root  wheel     1 Dec  2 15:02 net
+drwxr-xr-x   6 root  wheel   192 Sep 20 21:07 private
+drwxr-xr-x@ 64 root  wheel  2048 Nov 30 02:17 sbin
+lrwxr-xr-x@  1 root  wheel    11 Sep 20 23:32 tmp -> private/tmp
+drwxr-xr-x@  9 root  wheel   288 Sep 20 21:01 usr
+lrwxr-xr-x@  1 root  wheel    11 Sep 20 23:33 var -> private/var
